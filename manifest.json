@@ -3,7 +3,7 @@
     "version": "0.1",
     "manifest_version": 2,
 
-    "description": "Erlang Shell Extension",
+    "description": "An Erlang Chrome Shell Extension",
 
     "icons": {
         "16": "favicon.ico",
