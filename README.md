@@ -12,7 +12,3 @@ An Erlang Chrome Shell Extension
 3. Make sure "Developer mode" is checked
 4. Click "Load unpacked extension..."
 5. Navigate to the directory you have placed the repository
-
-
-
-	
